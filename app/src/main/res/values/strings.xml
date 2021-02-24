@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Create Simple Calculator</string>
+    <string name="calculatorTextView">Calculator</string>
+    <string name="enter_number_first_value">Enter First Value</string>
+    <string name="enter_number_second_value">Enter Second Value</string>
+    <string name="additionButton">Addition</string>
+    <string name="subtractionButton">Subtraction</string>
+    <string name="multiplicationButton">Multiplication</string>
+    <string name="divisionButton">Division</string>
+    <string name="calculator_ion">Calculator</string>
+</resources>
